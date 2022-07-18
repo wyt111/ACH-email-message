@@ -19,3 +19,7 @@
 卖币银行打款失败邮件- SellOrderBackPaymentError.html
 
 卖币订单失败邮件 - SellOrderError.html
+
+kyc验证成功 - KycSuccessful.html
+
+kyc验证失败 - kycFailed.html
