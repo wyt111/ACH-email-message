@@ -18,7 +18,8 @@
 
 卖币银行打款失败邮件- SellOrderBackPaymentError.html
 
-卖币订单失败邮件 - SellOrderError.html
+卖币订单失败邮件(重置银行信息) - SellOrderError.html
+卖币订单失败邮件(打币金额小于最小订单金额) - SellOrderAmountError.html
 
 kyc验证成功 - KycSuccessful.html
 
